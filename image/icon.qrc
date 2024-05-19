@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon.png</file>
+        <file>loupe_751463.png</file>
+        <file>train_11116398.png</file>
+        <file>icons8-auto-64.png</file>
+        <file>plane_723955.png</file>
+        <file>hotel_905462.png</file>
+    </qresource>
+</RCC>
